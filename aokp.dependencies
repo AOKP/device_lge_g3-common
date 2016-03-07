@@ -1,7 +1,9 @@
 [
   {
+    "remote": "cm",
     "repository": "android_kernel_lge_g3",
-    "target_path": "kernel/lge/g3"
+    "target_path": "kernel/lge/g3",
+    "branch": "cm-13.0"
   },
   {
     "repository": "android_device_qcom_common",
